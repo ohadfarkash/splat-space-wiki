@@ -11,3 +11,5 @@ If this experiment works, it may migrate into a new wiki, but for now this shoul
 ## Departments
 
 [3D Printing](/3d-printing/index.md)
+
+[Laser Cutting](/laser-cutting/index.md)
