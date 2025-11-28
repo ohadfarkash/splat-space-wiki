@@ -1,1 +1,1 @@
-[3D Printing](/3dPrinting)
+[3D Printing](/3d-printing/index.md)
